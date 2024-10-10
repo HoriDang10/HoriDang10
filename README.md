@@ -1,6 +1,6 @@
-## Sinkingbear 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECBEA4&width=435&lines=Hi+mates%2C+I'm+Hori-san" alt="Typing SVG" /></a>
-<!--
+## Welcome to Đặng Mai's profile 👋
+<a align = center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helventica&weight=600&duration=5020&pause=1000&color=ece0d1&background=FFE5BD00&center=true&vCenter=true&width=435&lines=Hi+mates%2C+I'm+Hori-san+aka+%C4%90%E1%BA%B7ng+Mai" alt="Typing SVG" /></a>
+
 **HoriDang10/HoriDang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
