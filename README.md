@@ -20,5 +20,19 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,py,react,mongodb,ae,ai,ps,mongodb" />
   </a>
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HoriDang10&theme=calm&mode=weekly" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</div>
 
