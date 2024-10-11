@@ -10,10 +10,10 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
 :brain: Believe it or not, I love philosophy and the arts because they give purpose and meaning in my life. Not only is this how programming ultimately works, but it is a separate way of giving order to structure around us. Coding creates a structure for us to build and express our ideas, as philosophy or art shape the way in which we view the world. What an artist does to channel their emotions onto a canvas, or writer places words on paper we do through code — turning abstract into material reality. This awakening and interactive process is the same in any of these fields — not mundane at all — just thoughtful. :writing_hand::disguised_face:
 </p> 
 
-## Contacts me 
+## Contacts me :point_left:
 <!-- Social icons section -->
 <div id="badges" align="center" style="margin: 3px">
-  <a style="margin: 1px" href="www.linkedin.com/in/maidang105">
+  <a style="margin: 1px" href="https://www.linkedin.com/in/maidang105/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a style="margin: 1px" href="https://www.facebook.com/horifatbear/">
@@ -24,16 +24,16 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
 </div>
 
   <!-- Skills icon section -->
-## Languages and tools 
+## Languages and tools :fist_left:
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,py,react,mongodb,html,css" />
   </a>
 
-## Other skills
+## Other skills :clap:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,figma" />
   </a>
     
 ## Stats bout me :raised_hands:
