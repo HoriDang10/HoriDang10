@@ -10,7 +10,7 @@ I love data science, but I get more thrilled about technical challenges and crea
 
 <!-- Social icons section -->
 <p>
-  <a href="www.linkedin.com/in/maidang105"><img width="32px" alt="LinkedIn" title="LinkedIn" src="[https://i.imgur.com/yRpa1dQ.png](https://imgur.com/2d4LSmA)"/></a>
+  <a href="www.linkedin.com/in/maidang105"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/a/rCLLNlk"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p
