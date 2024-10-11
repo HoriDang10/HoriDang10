@@ -27,7 +27,7 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
 ## Languages and tools 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,react,mongodb,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,react,mongodb,html,css" />
   </a>
 
 ## Other skills
