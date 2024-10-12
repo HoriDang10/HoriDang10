@@ -36,25 +36,29 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,figma" />
   </a>
     
-## Stats bout me :raised_hands:
+## Stats about me :raised_hands:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoriDang10&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=HoriDang10&theme=calm&mode=weekly" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" alt="GitHub Stats" />
-  </picture>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoriDang10&layout=compact&theme=dark" alt="Top Languages" />
+      </td>
+      <td>
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=HoriDang10&show_icons=true" alt="GitHub Stats" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=HoriDang10&theme=calm&mode=weekly" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
