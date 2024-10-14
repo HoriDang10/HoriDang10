@@ -54,9 +54,7 @@ Cause of my true passion is solving problems, so I'm aiming to work as a softwar
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=HoriDang10&theme=calm&mode=weekly" alt="GitHub Streak" />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoriDang10&theme=transparent" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
