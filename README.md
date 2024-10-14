@@ -1,5 +1,5 @@
 ## Welcome to Đặng Mai's profile 👋
-<a align = center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helventica&weight=600&duration=5020&pause=1000&color=ece0d1&background=FFE5BD00&center=true&vCenter=true&width=435&lines=Hi+mates%2C+I'm+Hori-san+aka+%C4%90%E1%BA%B7ng+Mai" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=6000&pause=1000&color=4E97FF&width=435&lines=Hi+mates%2C+I'm+Hori-san+aka+%C4%90%E1%BA%B7ng+Mai" alt="Typing SVG" /></a>
 
 ## About me :speech_balloon:
 <p>
