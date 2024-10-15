@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/12/7e/de/127ede610333207ac804bd1fb4360f33.png" alt="Banner" width="100%">
+</div>
+
 ## Welcome to Đặng Mai's profile 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=6000&pause=1000&color=4E97FF&width=435&lines=Hi+mates%2C+I'm+Hori-san+aka+%C4%90%E1%BA%B7ng+Mai" alt="Typing SVG" /></a>
 
